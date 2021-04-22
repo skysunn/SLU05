@@ -2,3 +2,4 @@
 - Wasser
 - Wurst
 - Butter
+- Eggs
